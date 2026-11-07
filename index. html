@@ -1,0 +1,151 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bless | Portfolio</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<header>
+  <a href="#" class="logo">Bless.</a>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#experience">Experience</a>
+    <a href="#skills">Skills</a>
+    <a href="#education">Education</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="about">
+  <div class="intro">
+    <small>ABOUT ME</small>
+    <h1>my midterms performance</h1>
+    <h3>Student | Future IT Professional</h3>
+    <p>hi! im bless, a student who enjoys learning new things and exploring technology. i like being creative, trying new ideas, and improving my skills.</p>
+    <p>im currently learning web development and hoping to create more projects as i gain experience.</p>
+
+    <div class="stats">
+      <div><h2>HTML</h2><small>Learning</small></div>
+      <div><h2>CSS</h2><small>Learning</small></div>
+    </div>
+  </div>
+
+  <img src="me.jpg" alt="Bless">
+</section>
+
+<section id="experience">
+  <small>CAREER</small>
+  <h1>Work Experience</h1>
+
+  <div class="timeline">
+    <div class="card">
+      <h3>Student</h3>
+      <p>currently studying and learning new skills in technology and computer programming.</p>
+      <span>Current</span>
+    </div>
+
+    <div class="card">
+      <h3>Beginner Web Developer</h3>
+      <p>practicing html and css while exploring how to build and design websites.</p>
+      <span>Personal Learning</span>
+    </div>
+  </div>
+</section>
+
+<section id="skills">
+  <small>EXPERTISE</small>
+  <h1>Technologies & Skills</h1>
+
+  <div class="skills">
+    <div><i class="fa-brands fa-html5"></i><p>HTML</p></div>
+    <div><i class="fa-brands fa-css3-alt"></i><p>CSS</p></div>
+    <div><i class="fa-brands fa-js"></i><p>JavaScript</p></div>
+    <div><i class="fa-brands fa-python"></i><p>Python</p></div>
+    <div><i class="fa-solid fa-laptop"></i><p>Computer Skills</p></div>
+    <div><i class="fa-solid fa-people-group"></i><p>Teamwork</p></div>
+  </div>
+
+  <h3>Additional Competencies</h3>
+  <p class="tags">communication · creativity · problem solving · time management</p>
+</section>
+
+<section id="education">
+  <small>BACKGROUND</small>
+  <h1>Education</h1>
+
+  <div class="cards">
+    <div class="card">
+      <h3>Senior High School</h3>
+      <p>St. Matthew Academy of Cavite</p>
+      <span>Current Education</span>
+    </div>
+
+    <div class="card">
+      <h3>Academic Development</h3>
+      <p>learning and improving my knowledge in different subjects and computer skills.</p>
+      <span>Ongoing</span>
+    </div>
+  </div>
+</section>
+
+<section id="projects">
+  <small>WORK</small>
+  <h1>Featured Projects</h1>
+
+  <div class="projects">
+    <div class="card">
+      <img src="project1.jpg" alt="Website Project">
+      <h3>Website Design</h3>
+      <p>a simple website created using html and css.</p>
+    </div>
+
+    <div class="card">
+      <img src="project2.jpg" alt="School Project">
+      <h3>School Project</h3>
+      <p>a creative project made for school activities.</p>
+    </div>
+
+    <div class="card">
+      <img src="project3.jpg" alt="Portfolio Project">
+      <h3>Personal Portfolio</h3>
+      <p>a personal website showcasing my background and skills.</p>
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <small>GET IN TOUCH</small>
+  <h1>Let's Connect!</h1>
+
+  <div class="contact">
+    <div class="card">
+      <h3>Contact Information</h3>
+      <p><i class="fa-solid fa-envelope"></i> your@email.com</p>
+      <p><i class="fa-solid fa-location-dot"></i> philippines</p>
+      <a href="mailto:your@email.com" class="btn">Email Me</a>
+    </div>
+
+    <div class="card">
+      <h3>Social Media</h3>
+      <p>feel free to connect with me through my social accounts.</p>
+      <div class="socials">
+        <a href="https://github.com/" target="_blank"><i class="fa-brands fa-github"></i></a>
+        <a href="https://facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Bless. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
